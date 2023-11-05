@@ -23,9 +23,9 @@ Welcome to the Amazon Clone project, a web-based e-commerce platform designed to
 1. Clone this repository to your local machine using Git:
    ```bash
    git clone https://github.com/Sais-27/Amazon_clone.git
-2. Open the [index.html](https://github.com/Sais-27/Amazon_clone/blob/main/index.html) file in a web browser to see the flipping card in action.
+2. Open the [index.html](https://github.com/Sais-27/Amazon_clone/blob/main/index.html) file in a web browser to see the shopping app clone.
 
-3. You can customize the content on the card by editing the HTML in the `index.html` file and adjust the styles in the `style.css` file to match your design preferences.
+3. You can customize the content on the shopping app by editing the HTML in the `index.html` file and adjust the styles in the `style.css` file to match your design preferences.
 
 4. If you want to use the provided image in your project, download it from the repository and link to it in your HTML.
 
